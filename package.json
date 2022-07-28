@@ -1,0 +1,15 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "React ecommerce",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "javascript"
+  ],
+  "author": "Carlos Alberto Conde Moreno <carlosacondemoreno@gmail.com>",
+  "license": "MIT"
+}
