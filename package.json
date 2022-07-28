@@ -11,5 +11,9 @@
     "javascript"
   ],
   "author": "Carlos Alberto Conde Moreno <carlosacondemoreno@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
